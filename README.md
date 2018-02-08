@@ -1,5 +1,5 @@
-##Warning, if you're looking for a solution before solving it, go try some mor (':
-###Solutions to Code Fights Intro section problems.
+## Warning, if you're looking for a solution before solving it, go try some more (':
+### Solutions to Code Fights Intro section problems.
 
 INFO
 =================
